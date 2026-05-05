@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": {
+    "X-API-Token": {
+      "type": "string",
+      "description": "Optional Compeller API token. Discovery tools work without authentication; generation/account tools require it.",
+      "x-from": "user"
+    }
+  },
+  "required": []
+}

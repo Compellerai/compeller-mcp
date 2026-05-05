@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "compeller": {
+      "url": "https://compeller.ai/api/mcp",
+      "headers": {
+        "Authorization": "Bearer YOUR_COMPELLER_API_TOKEN"
+      }
+    }
+  }
+}

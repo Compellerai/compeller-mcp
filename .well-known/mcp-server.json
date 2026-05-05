@@ -1,0 +1,8 @@
+{
+  "name": "ai.compeller/compel",
+  "title": "Compeller",
+  "description": "Create and track AI music videos and audio-reactive visuals from songs.",
+  "url": "https://compeller.ai/api/mcp",
+  "transport": "streamable-http",
+  "docs": "https://compeller.ai/api/mcp/docs.md"
+}
